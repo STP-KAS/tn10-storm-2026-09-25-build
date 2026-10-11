@@ -3,12 +3,16 @@
 > Good intentions, shaky hands. STP does not know what he is doing. We test, we write down what we think we saw, and that is the whole product. A number here is not the truth. A chart is not the truth. Any other sentence that sounds sure of itself is not the truth either. Do not count any of it as a claim.
 >
 > [Disclaimer](DISCLAIMER.md)
+>
+> **Part of [tn-master](https://github.com/STP-KAS/tn-master)**, the map of every TN10 storm. Renamed on 11 Oct 2026 from `grok-build-vprogs`; old links redirect here.
+>
+> ← previous storm: [tn10-storm-2026-09-25](https://github.com/STP-KAS/tn10-storm-2026-09-25) | next storm: [tn10-storm-2026-09-25-indexer-stall](https://github.com/STP-KAS/tn10-storm-2026-09-25-indexer-stall) →
 
 > **Experimental only. Not a product.**
 >
 > Do not use wallet integrations on this GitHub. STP remains a clown. [DISCLAIMER.md](DISCLAIMER.md)
 
-# grok-build-vprogs
+# tn10-storm-2026-09-25-build
 
 Testnet-10 wallet load notes from 2026-09-25. Written while this repo was private; it is now public. Testnet only. No mainnet keys, no seed in this tree.
 
